@@ -33,9 +33,10 @@
 
 ## Data Introduce
 
-
-
 kaggle : Webtoon Comics Dataset
 link : https://www.kaggle.com/datasets/swarnimrai/webtoon-comics-dataset
+
+Naver Webtoon(en)
+https://www.webtoons.com/en/dailySchedule
 <br></br>
 
