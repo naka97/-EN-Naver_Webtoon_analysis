@@ -47,5 +47,12 @@ https://www.webtoons.com/en/dailySchedule
 ![image](https://user-images.githubusercontent.com/111736134/200494701-e081d5a1-27aa-429e-b14c-65613d502ae8.png)
 
 
+- DataSet의 전체 웹툰 장르 파이차트
+![image](https://user-images.githubusercontent.com/111736134/200495005-f64da9f6-d7d4-4f43-8f05-739908d1a0a9.png)
+
+
+
+- 상위 10개 웹툰의 장르 파이차트
+![image](https://user-images.githubusercontent.com/111736134/200495178-e75ebcb6-bafd-4e00-a216-35b11bdb1f57.png)
 
 
