@@ -40,3 +40,12 @@ Naver Webtoon(en)
 https://www.webtoons.com/en/dailySchedule
 <br></br>
 
+
+## insight
+
+<a>실제 웹툰 랭킹 순위 (일부 누락) </a>
+![image](https://user-images.githubusercontent.com/111736134/200494701-e081d5a1-27aa-429e-b14c-65613d502ae8.png)
+
+
+
+
